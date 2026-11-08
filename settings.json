@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "unknownmc-XWpm.aternos.me",
+    "port": 15387,
     "version": "1.19.3"
   },
 
